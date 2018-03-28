@@ -283,6 +283,3 @@ plt2.legend(loc='upper left')
 plt2.show()
 
 
-
-import xgboost as xgb
-
