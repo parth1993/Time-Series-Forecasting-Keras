@@ -10,4 +10,5 @@ Algorithm of Deep Learning:
 • The Dataset consists of a Time Series and Variables: overtime, several Variables are
   sorted to the Algorithm and upon Analisys of these Variables; an outcome should be
   Predicted by the Algorithm. 
+  
 [LSTM](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
